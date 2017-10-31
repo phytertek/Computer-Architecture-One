@@ -1,0 +1,20 @@
+{
+  "name": "Computer-Architecture-One",
+  "version": "1.0.0",
+  "description": "Welcome to the first class on classical Computer Science! Beginning now, you will be studying the underpinnings of the programming lessons that you have practiced previously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phytertek/Computer-Architecture-One.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phytertek/Computer-Architecture-One/issues"
+  },
+  "homepage": "https://github.com/phytertek/Computer-Architecture-One#readme"
+}
